@@ -2,7 +2,7 @@ name: Annihilation
 version: 1.0
 api: 2.0.0
 main: Annihilation\Annihilation
-author: Minetox team
+author: Minetox team & Majovec
 description: Annihilation minigame 
 depend: [MTCore]
 
