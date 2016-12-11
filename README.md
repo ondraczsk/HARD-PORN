@@ -7,3 +7,5 @@ ps:´HONZO HLAVNE NAM TU NEBREC D dik:_DUz jdou ty mapy rozbehl jsem je  na de
 
 
 Kali tam je uzavrena Issues tak si tam precti jak nam Honzíček breci :D
+
+:D Odblokuj si mě na fb nebo přijď na server chci ti něo říct
