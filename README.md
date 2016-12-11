@@ -11,3 +11,4 @@ Kali tam je uzavrena Issues tak si tam precti jak nam Honzíček breci :D
 :D Odblokuj si mě na fb nebo přijď na server chci ti něco říct
 
 na ten gamakuv nejde pripojit 
+port 19135
